@@ -1,2 +1,7 @@
-# Analogue-3D-Images
-A collection of stock cartridge images for the Analogue 3D
+# Analogue 3D Images
+These are the stock images sent to Analogue 3D reviewers.
+
+## Installation
+
+- Place the `labels.db` file in your Analogue 3D SD card in the following directory: `root/Library/N64/Images`
+- Images should now appear on your cartridge as you insert them
